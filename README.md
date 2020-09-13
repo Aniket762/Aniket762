@@ -10,7 +10,7 @@
 - 📫 How to reach me: aniketindian8@gmail.com 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love learning new stuffs so it is getting difficult for me to master anything 
--->
+
 
 
 
