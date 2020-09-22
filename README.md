@@ -5,11 +5,11 @@
 - 🔭 I’m currently working on Vitual Classroom 
 - 🌱 I’m currently learning Unity,Angular
 - 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with websites and python related stuffs
-- 💬 Ask me about tech related stuffs,starup ideas
+- 🤔 I’m looking for help with websites and python related stuff
+- 💬 Ask me about tech related stuff,starup ideas
 - 📫 How to reach me: aniketindian8@gmail.com 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love learning new stuffs so it is getting difficult for me to master anything 
+- ⚡ Fun fact: I love learning new stuff so it is getting difficult for me to master anything 
 
 
 
