@@ -2,8 +2,8 @@
 
  
  
-- 🔭 I’m currently working on Vitual Classroom 
-- 🌱 I’m currently learning Unity,Angular
+- 🔭 I’m currently working on developing coding skills 
+- 🌱 I’m currently learning gcp
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with websites and python related stuff
 - 💬 Ask me about tech related stuff,startup ideas
