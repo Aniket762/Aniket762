@@ -3,7 +3,7 @@
  
  
 - 🔭 I’m currently working on developing coding skills 
-- 🌱 I’m currently learning gcp
+- 🌱 I’m currently focusing on DevOps
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with websites and python related stuff
 - 💬 Ask me about tech related stuff,startup ideas
