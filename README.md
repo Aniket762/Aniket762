@@ -17,8 +17,6 @@
 - ⚡ Fun fact: I love learning new stuff so it is getting difficult for me to master anything
 
 
-
-<h3 align='center'> Let's connect over coffee and just talk! </p>
 <p align="center">
 	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/aniket-pal/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
