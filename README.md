@@ -14,8 +14,13 @@
 
 
 
+<p align="center">
+	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/aniket-pal/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100005738866655"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/itzaniket_762/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+</p>
 
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aniket-pal-5996251aa/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/itzaniket_762/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100005738866655)
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniket762&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket762&layout=compact)](https://github.com/Aniket762/github-readme-stats)
@@ -23,3 +28,4 @@
  
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket762&theme=radical" alt="aniket pal" /></p>
+
