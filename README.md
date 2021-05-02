@@ -1,4 +1,4 @@
-### Heyoo!! I am Aniket Pal 👋
+<h1 align="center">Heyoo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Aniket</h1>
 
  
  
@@ -22,3 +22,4 @@
 
  
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket762&theme=radical" alt="aniket pal" /></p>
