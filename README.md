@@ -14,10 +14,11 @@
 - 💬 Ask me about anything
 - 📬 How to reach me: aniketindian8@gmail.com 
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love learning new stuff so it is getting difficult for me to master anything
+- ⚡ Oneday I will make it happen 
 
+</br>
 
-<p align="center">
+<p align="center" style="margin:10px">
 	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/aniket-pal/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100005738866655"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
