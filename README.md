@@ -1,6 +1,6 @@
-<h1 align="center">Heyoo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Aniket</h1>
+<h1 align="center">Heyoo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
- 
+ <img src='githubanner.png'>
  
 - 🔭 I’m currently working on developing coding skills 
 - 🌱 I’m currently focusing on DevOps
