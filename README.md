@@ -28,9 +28,4 @@
 
 
 <h3 align='center'>Why maintain a streak in snapchat when you can do it here!🔥</h3> 
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket762&theme=radical" alt="aniket pal" /></p>
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
+<p align='center'><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket762&theme=radical" alt="aniket pal" />&nbsp; &nbsp;<img width="450px" src="https://github-readme-stats.vercel.app/api?username=aniket762&count_private=true&theme=radical"/></p>
