@@ -31,7 +31,22 @@
 
 <p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket762&theme=radical" alt="aniket pal" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=aniket762&count_private=true&theme=radical"/></p>
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
 
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
