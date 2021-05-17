@@ -1,6 +1,7 @@
 <h1 align="center">Heyoo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
- <img align='center' src='githubanner.png'>
+ 
+ [![Aniket's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aniket762&theme=xcode)](https://git.io/Aniket762)
  
  
 
