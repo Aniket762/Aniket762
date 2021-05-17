@@ -1,12 +1,7 @@
-<h1 align="center">Heyoo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-
- 
- [![Aniket's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aniket762&theme=xcode)](https://git.io/Aniket762)
- 
- 
+<h1 align="center">Heyoo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> It's Aniket  </h1>
 
 
-<img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/15687/screenshots/11402762/media/b8eaf17dcdc71b1da589c3b737185da0.png?compress=1&resize=400x300" />
+<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/56/dd/5b/56dd5bbe88b68f48d6315106c7f1d255.gif" padding="5px" />
 
 - 🔭 I’m currently working on developing coding skills 
 - 🌱 I’m currently focusing on DevOps
@@ -18,6 +13,9 @@
 - ⚡ Oneday I will make it happen 
 
 </br>
+
+[![Aniket's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aniket762&theme=xcode)](https://git.io/Aniket762)
+
 
 <p align="center" >
 	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
