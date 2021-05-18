@@ -1,4 +1,4 @@
-<h1 align="center">Heyoo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> It's Aniket  </h1>
+<h1 align="center">Heyo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> It's Aniket  </h1>
 
 
 <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/56/dd/5b/56dd5bbe88b68f48d6315106c7f1d255.gif" padding="5px" />
