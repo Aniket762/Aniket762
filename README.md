@@ -1,7 +1,8 @@
-<h1 align="center">Heyo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> It's Aniket  </h1>
+<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">!It's Aniket  </h1>
 
+![](https://activity-graph.herokuapp.com/graph?username=aniket762&theme=react-dark&hide_border=true&area=true)
 
-<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/56/dd/5b/56dd5bbe88b68f48d6315106c7f1d255.gif" padding="5px" />
+<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/c0/6c/89/c06c89bec6609263981ee5ca131df76f.png" padding="5px" />
 
 - 🔭 I’m currently working on developing coding skills 
 - 🌱 I’m currently focusing on DevOps
@@ -14,7 +15,7 @@
 
 </br>
 
-[![Aniket's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aniket762&theme=xcode)](https://git.io/Aniket762)
+
 
 
 <p align="center" >
