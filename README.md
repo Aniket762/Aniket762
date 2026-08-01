@@ -12,7 +12,7 @@
 
 ### 🧭 About me
 
-I'm a backend engineer on the credit card platform at **Wells Fargo, Bangalore** — mostly living in distributed systems (Java/Spring Boot, Go, Kafka, PostgreSQL, Redis, Kubernetes) by day, and pulling apart **agentic AI / RAG systems** by night. Started out in Electrical Engineering at **NIT Rourkela**, drifted into software during a **Barclays** internship, and spent a summer building open-source tooling with **IHR** through Google Summer of Code — never really stopped tinkering since.
+I'm a full stack engineer on the platform team at **Wells Fargo, Bangalore** — mostly living in distributed systems (Java/Spring Boot, Kafka, PostgreSQL, Redis, Kubernetes) by day, and pulling apart **agentic AI / RAG systems** by night. Started out in Electrical Engineering at **NIT Rourkela**, drifted into software during a **Barclays** internship, and spent a summer building open-source tooling with **IHR** through Google Summer of Code — never really stopped tinkering since.
 
 - 🎓 Background: Electrical Engineering, NIT Rourkela → backend engineering → applied AI
 - ✍️ I occasionally [write about the DevOps/Go rabbit holes I fall into](https://dev.to/aniket762)
